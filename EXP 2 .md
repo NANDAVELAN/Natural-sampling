@@ -6,7 +6,8 @@ Write a simple Natural sampling program using Python.
 Python 3.x
 
 # Program:
-'''import numpy as np
+```
+import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
 
@@ -78,7 +79,8 @@ plt.legend()
 plt.grid(True)
 
 plt.tight_layout()
-plt.show()'''
+plt.show()
+```
 
 
 
